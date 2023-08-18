@@ -12,10 +12,9 @@ Stefan Jesenko
 
 ### 1.1 Ihr Projekt
 
-✍️ Beschreiben Sie Ihr Projekt in einem griffigen Satz.
+In diesem Projekt werden ich einen Random Number guesser mit OOP Programmieren.
 
-✍️ Erklären Sie genauer in 50 bis 100 Wörtern, was genau Sie in diesem Projekt erreichen möchten, und was Sie dabei zu lernen hoffen.
-
+Ein Random Number guesser Spiel generiert eine Zufällige Zahl die der Benutzer dann erraten muss. Jedes Mal wenn der Nutzer einen versuch macht die Zahl zu erraten sagt das Programm ob die Zahl höher oder 
 ### 1.2 User Stories
 
 | US-№ | Verbindlichkeit | Typ  | Beschreibung                       |
